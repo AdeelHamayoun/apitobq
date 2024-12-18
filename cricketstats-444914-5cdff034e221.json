@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "cricketstats-444914",
-  "private_key_id": "5cdff034e221a583c7ae737bddb86e5dcba81a0e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpHAGLuY1/rKG3\ncwhEqJPCzb7ZqC2eNcqBhHsTTrbODYg5St+SGoK0Z5dJ8uie0PJsR0m3Y0lZUNGa\neBdkWVYacf+D4sN1k/U+888DgSm+YkCFOCT7O9uS6EAU+ariwQB4pILoqab7dMdu\nkCSRpwitOd3mnAW/FWeyL0H57qVvjiFqLri9t/mLCeylxE5l0RHdGdCqDQDuYmWq\nDbUNWqPqralhJ6utSJH6wgQABoSfMNor17cxT1ND4bnhw0ZVJxUQb+i/6XBGMlGR\nY+V2O7zlZGDZS0bmDHMDqtLp+xrYMS9Gt9Y05pbLt42SMLDw5KJkRJ+5UIlXDaPT\n6P04YUI3AgMBAAECggEABMp2/hRgU9uk1o5QZPw5o20yGPcmGQirwgY/eQk5Levo\nOLyhn4FXbpujXO71dCULQ9IJM+7WJyJJAzf1FwdeOcWSWD7WYWsIVE49Rnt5npvT\nTsg2aVUFdXYASsJ/+t3o5iy9oLBzEJtQWGuGUwdeZuSaysEPe0hfSwcCYX2cpjpe\nxTl1MxDT9c6U9sTlwZhsLqBRbziXqc2ZgWB1cwwpvfEmnBMkhLBjwjX6phUMXOh4\n6e2j3Afe7bkrIA3pd9RY7+OYo+LoFcsKYkCVHy2MnRFsf1nYYPZuDNgbi/wE7Uy0\nzXdfeVVqt5ghQXu4DnkQS+VbpgnGUHVKvCCQ8OOJ8QKBgQDfHFvuNV2aAi9n8/+V\nJBxT0QuOcVKJ/ftuAfzZ5r5a7ULm8N1r9hLcWvKfxtf6eiERwqKOt/8NxBaMQ7y3\nMpaPBjycxZbnfzHie+y2v7oKJYNgQVh1ro7/h696y9HMWuXJ5DXT9+0D8HidH3hE\nEKPfWqaawon7fZlclsx739P5JQKBgQDCCcU4ZeD86GBu0JTCqBTUm2Isl37HIa58\nQXyoS26s5MBDDQysBZXMD+Xisr4+IdI4aE3SezBtLFDl7yQKKTVS/beulqaN1BVG\njWGTTroqnw7WwSx9LnZTUfPAthMesUfMCWmFINDwBE9GoaZJ099+yrLywUPiwJkQ\n5s1OUB71KwKBgQCZvYj7lHpzbZ4NG+26b6+1cg9skFo4DHP9UhFSddYmAehgCwoJ\nIv/MKD+YKgUZ7J5tBpnNjqyKZ9zBusuH0aw90iZiQSXDT7qoPozXQTaJV2A4K88x\nCKAxJOaez2Q6VUiS3lbZQbZpSINUgiL1hCHn/yde7T73tYzAaIlvssT2oQKBgGqS\naTLXqeHeU5CpmPrszDwVd69cKbJ/SlFOuoPIomntXbe2BB67FpI0rSN83sZLVyXK\nC+wt4uQjce9IEDhQd8w0M919Os8tC95rKot4swFTyRekk6XRjgWnPkS6+/dgkTl8\ndes7oeYhx9TYVfe4mckO1YhFI973v1osGdkIYmhvAoGAeoEAgBGKu3ROzcRpj+7L\nGPVtDDxXlQgDoQFVtm4ViFMzN7i0olqkiDi82HjS8adwnIOIiZoybMqu/Ve9jUi3\nFlA6kAU3BKAUicvwbuBCy/OjTUrYe5mTkjrhKgIJJVgly2J29spTCL5eq7ncXPXB\ni2xKW62rtMJV9tkSbBsZaUo=\n-----END PRIVATE KEY-----\n",
-  "client_email": "cricket-stats-service-account@cricketstats-444914.iam.gserviceaccount.com",
-  "client_id": "104586919143222934524",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cricket-stats-service-account%40cricketstats-444914.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+
 }
